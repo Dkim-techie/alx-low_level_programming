@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -masm=intel $CFILE -o $CFILE.s
+gcc -masm=intel_syntax -s > -o $CFILE.s

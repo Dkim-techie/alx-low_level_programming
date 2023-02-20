@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there 
+/*
+ * more headers goes ther
  * Main -a program that prints lowercase.
  * Description the putchar function
- * return(0) 
+ * return(0)
  */
 
 int main(void)
